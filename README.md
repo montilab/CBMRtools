@@ -1,5 +1,5 @@
 # cbmrtools
-R package with common use scripts for transcriptomics analysis
+Repository for common R packaged scripts for transcriptomics analysis
 
 ### Install Packages
 ```
