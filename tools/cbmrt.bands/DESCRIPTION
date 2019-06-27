@@ -1,4 +1,4 @@
-Package: cbmrtools.bands
+Package: cbmrt.bands
 Title: bands
 Version: 1.0
 Authors@R: c(person(given="Anthony", family="Federico", email="anfed@bu.edu", 
